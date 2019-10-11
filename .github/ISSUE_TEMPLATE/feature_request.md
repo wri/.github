@@ -10,8 +10,9 @@ assignees: ''
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. 
 
-Ex. I'm always frustrated when [...]
-Ex. It would be great if the app would allow me to [...]
+Examples:
+- I'm always frustrated when [...]
+- It would be great if the app would allow me to [...]
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.

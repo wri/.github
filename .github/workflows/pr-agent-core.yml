@@ -4,6 +4,11 @@ name: PR Agent Core
 # `.github/workflows/pr-agent.yml` shim and keep secrets in their own context.
 on:
   workflow_call:
+    secrets:
+      # Callers must pass this explicitly (or use `secrets: inherit`).
+      # GITHUB_TOKEN is provided automatically and needs no declaration.
+      OPENROUTER_PR_AGENT:
+        required: true
 
 jobs:
   pr_agent:

@@ -3,8 +3,8 @@
 ## Pull request checklist
 
 Please check if your PR fulfills the following requirements:
-- [ ] Make sure you are requesting to pull a topic/feature/bugfix branch (right side). Don't request your master!
-- [ ] Make sure you are making a pull request against the develop branch (left side). Also you should start your branch off our develop.
+- [ ] Make sure you are requesting to pull a topic/feature/bugfix branch (right side). Don't request your main!
+- [ ] Make sure you are making a pull request against the main branch (left side). Also you should start your branch off our main.
 - [ ] Check the commit's or even all commits' message styles matches our requested structure.
 - [ ] Check your code additions will fail neither code linting checks nor unit test.
 
